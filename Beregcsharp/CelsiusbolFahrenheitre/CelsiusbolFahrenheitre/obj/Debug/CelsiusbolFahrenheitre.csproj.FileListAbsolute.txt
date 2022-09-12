@@ -1,0 +1,8 @@
+C:\Users\csacs\source\repos\CelsiusbolFahrenheitre\CelsiusbolFahrenheitre\bin\Debug\CelsiusbolFahrenheitre.exe.config
+C:\Users\csacs\source\repos\CelsiusbolFahrenheitre\CelsiusbolFahrenheitre\bin\Debug\CelsiusbolFahrenheitre.exe
+C:\Users\csacs\source\repos\CelsiusbolFahrenheitre\CelsiusbolFahrenheitre\bin\Debug\CelsiusbolFahrenheitre.pdb
+C:\Users\csacs\source\repos\CelsiusbolFahrenheitre\CelsiusbolFahrenheitre\obj\Debug\CelsiusbolFahrenheitre.csproj.AssemblyReference.cache
+C:\Users\csacs\source\repos\CelsiusbolFahrenheitre\CelsiusbolFahrenheitre\obj\Debug\CelsiusbolFahrenheitre.csproj.SuggestedBindingRedirects.cache
+C:\Users\csacs\source\repos\CelsiusbolFahrenheitre\CelsiusbolFahrenheitre\obj\Debug\CelsiusbolFahrenheitre.csproj.CoreCompileInputs.cache
+C:\Users\csacs\source\repos\CelsiusbolFahrenheitre\CelsiusbolFahrenheitre\obj\Debug\CelsiusbolFahrenheitre.exe
+C:\Users\csacs\source\repos\CelsiusbolFahrenheitre\CelsiusbolFahrenheitre\obj\Debug\CelsiusbolFahrenheitre.pdb

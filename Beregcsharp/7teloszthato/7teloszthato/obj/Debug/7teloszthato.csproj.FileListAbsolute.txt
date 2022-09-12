@@ -1,0 +1,8 @@
+C:\Users\csacs\source\repos\7teloszthato\7teloszthato\bin\Debug\7teloszthato.exe.config
+C:\Users\csacs\source\repos\7teloszthato\7teloszthato\bin\Debug\7teloszthato.exe
+C:\Users\csacs\source\repos\7teloszthato\7teloszthato\bin\Debug\7teloszthato.pdb
+C:\Users\csacs\source\repos\7teloszthato\7teloszthato\obj\Debug\7teloszthato.csproj.AssemblyReference.cache
+C:\Users\csacs\source\repos\7teloszthato\7teloszthato\obj\Debug\7teloszthato.csproj.SuggestedBindingRedirects.cache
+C:\Users\csacs\source\repos\7teloszthato\7teloszthato\obj\Debug\7teloszthato.csproj.CoreCompileInputs.cache
+C:\Users\csacs\source\repos\7teloszthato\7teloszthato\obj\Debug\7teloszthato.exe
+C:\Users\csacs\source\repos\7teloszthato\7teloszthato\obj\Debug\7teloszthato.pdb

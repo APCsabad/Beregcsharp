@@ -1,0 +1,8 @@
+C:\Users\csacs\source\repos\APCsabad\Beregcsharp\Hallmazalapot\Hallmazalapot\bin\Debug\Hallmazalapot.exe.config
+C:\Users\csacs\source\repos\APCsabad\Beregcsharp\Hallmazalapot\Hallmazalapot\bin\Debug\Hallmazalapot.exe
+C:\Users\csacs\source\repos\APCsabad\Beregcsharp\Hallmazalapot\Hallmazalapot\bin\Debug\Hallmazalapot.pdb
+C:\Users\csacs\source\repos\APCsabad\Beregcsharp\Hallmazalapot\Hallmazalapot\obj\Debug\Hallmazalapot.csproj.AssemblyReference.cache
+C:\Users\csacs\source\repos\APCsabad\Beregcsharp\Hallmazalapot\Hallmazalapot\obj\Debug\Hallmazalapot.csproj.SuggestedBindingRedirects.cache
+C:\Users\csacs\source\repos\APCsabad\Beregcsharp\Hallmazalapot\Hallmazalapot\obj\Debug\Hallmazalapot.csproj.CoreCompileInputs.cache
+C:\Users\csacs\source\repos\APCsabad\Beregcsharp\Hallmazalapot\Hallmazalapot\obj\Debug\Hallmazalapot.exe
+C:\Users\csacs\source\repos\APCsabad\Beregcsharp\Hallmazalapot\Hallmazalapot\obj\Debug\Hallmazalapot.pdb
